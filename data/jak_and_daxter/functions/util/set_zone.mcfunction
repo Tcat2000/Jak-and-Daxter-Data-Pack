@@ -1,0 +1,1 @@
+$execute as @e[tag=jad_collectable,limit=1,sort=nearest,distance=0..3] on passengers if entity @s[tag=jad_orb-data] run function jak_and_daxter:orb/change_zone {"zone":"$(zone)"}

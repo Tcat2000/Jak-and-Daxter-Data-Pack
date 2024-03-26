@@ -1,0 +1,3 @@
+execute as @e[type=minecraft:armor_stand,tag=jad-orb,distance=0..0.6] at @s run kill @e[type=item,tag=jad-sub_component,limit=1,sort=nearest,distance=0]
+execute as @e[type=minecraft:armor_stand,tag=jad-orb,distance=0..0.6] at @s run kill @e[type=marker,tag=jad-sub_component,limit=1,sort=nearest,distance=0]
+execute as @e[type=minecraft:armor_stand,tag=jad-orb,distance=0..0.6] at @s run kill @s[type=armor_stand]

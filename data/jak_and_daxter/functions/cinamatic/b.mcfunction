@@ -1,0 +1,1 @@
+function jak_and_daxter:cinamatic/point {"x":100,"z":200,"y":35,"yaw":"~90","pitch":"~","time":100,"next":"jak_and_daxter:cinamatic/c"}

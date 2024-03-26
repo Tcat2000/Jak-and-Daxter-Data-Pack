@@ -1,0 +1,1 @@
+scoreboard objectives add math.temp_data dummy

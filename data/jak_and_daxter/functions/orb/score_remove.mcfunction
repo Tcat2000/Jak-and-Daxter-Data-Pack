@@ -1,0 +1,1 @@
+$scoreboard players remove $(zone) jad.orbs_collected 1

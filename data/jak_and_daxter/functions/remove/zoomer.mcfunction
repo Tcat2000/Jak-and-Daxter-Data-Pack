@@ -1,0 +1,1 @@
+execute on vehicle if entity @s[type=minecraft:armor_stand,tag=jad-zoomer] run kill @s

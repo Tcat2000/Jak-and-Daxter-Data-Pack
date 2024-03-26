@@ -1,0 +1,1 @@
+summon interaction ~ ~ ~ {NoGravity:1b,width:1f,height:1f,Tags:["cinasmooth.waypoint"]}

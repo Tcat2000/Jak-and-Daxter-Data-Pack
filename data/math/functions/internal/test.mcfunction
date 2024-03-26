@@ -1,0 +1,1 @@
+function math:lerp4 {"x1":0,"y1":0,"z1":0, "x2":0,"y2":5,"z2":0, "x3":5,"y3":10,"z3":0, "x4":10,"y4":10,"z4":0, "output":"minecraft:test","path":"pos1","id":"1","per":50}

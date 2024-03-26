@@ -1,0 +1,1 @@
+function jak_and_daxter:cinamatic/point {"x":53.89,"y":56.99,"z":314.49,"yaw":"-195.96","pitch":"-1.05","time":100,"next":"jak_and_daxter:cinamatic/menu/start/2"}

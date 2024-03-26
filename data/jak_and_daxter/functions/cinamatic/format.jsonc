@@ -1,0 +1,12 @@
+{
+    "jad:paths":{
+        "menu":{//path name
+            "nodes":[//waypoints of the curve
+                {
+                    "pos":[1,2,3],//world pos
+                    "rot":[90,27]//yaw, pitch
+                }
+            ]
+        }
+    }
+}

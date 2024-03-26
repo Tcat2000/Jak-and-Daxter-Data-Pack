@@ -1,0 +1,20 @@
+/execute in minecraft:overworld run tp @s 75.85 54.74 337.38 -192.96 5.40 //start pos 1
+/execute in minecraft:overworld run tp @s 53.89 56.99 314.49 -195.96 -1.05 //start pos 2
+/execute in minecraft:overworld run tp @s 26.82 59.98 299.65 -184.56 20.25 //start pos 3
+/execute in minecraft:overworld run tp @s 23.86 52.86 269.91 -162.96 8.10 //acuall loop
+/execute in minecraft:overworld run tp @s 74.51 33.01 251.51 -142.71 -26.85
+/execute in minecraft:overworld run tp @s 73.33 22.51 222.40 -188.91 -30.60
+/execute in minecraft:overworld run tp @s 70.34 29.26 199.65 -176.91 -28.20
+/execute in minecraft:overworld run tp @s 55.85 45.00 166.10 -124.71 11.85
+/execute in minecraft:overworld run tp @s 75.45 38.64 146.72 -70.71 19.95
+/execute in minecraft:overworld run tp @s 86.87 36.39 150.64 -41.61 12.30
+/execute in minecraft:overworld run tp @s 103.78 27.41 174.84 18.99 -2.10
+/execute in minecraft:overworld run tp @s 94.00 29.29 213.98 26.79 5.70
+/execute in minecraft:overworld run tp @s 84.29 27.80 235.21 18.69 -20.70
+/execute in minecraft:overworld run tp @s 80.77 29.66 263.56 -7.71 -15.45
+/execute in minecraft:overworld run tp @s 84.65 27.04 286.06 10.29 -11.70
+/execute in minecraft:overworld run tp @s 91.61 37.16 309.88 121.29 -3.15
+/execute in minecraft:overworld run tp @s 97.24 53.27 324.51 137.04 6.15
+/execute in minecraft:overworld run tp @s 79.51 63.00 319.98 117.54 -12.75
+/execute in minecraft:overworld run tp @s 54.59 74.23 316.20 150.09 -9.90
+/execute in minecraft:overworld run tp @s 28.50 57.74 302.15 154.89 5.70   // go to 4

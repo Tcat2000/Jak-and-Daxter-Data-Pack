@@ -1,0 +1,1 @@
+summon armor_stand ~ ~ ~ {Invisible:1b,Tags:["jad.villager.uncle"],Passengers:[{id:"minecraft:block_display",Tags:["jad.sub.render.1"],block_state:{Name:"minecraft:stone"}},{id:"minecraft:interaction",width:1f,height:3f,Tags:["jad.sub.interact.1"]}]}

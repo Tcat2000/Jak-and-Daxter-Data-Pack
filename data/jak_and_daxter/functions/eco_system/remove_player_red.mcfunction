@@ -1,0 +1,1 @@
+$execute as @e[tag=jad.eco_cluster.red] on passengers if entity @s[nbt={data:{collected_for_players:[{uuid:[I;$(uuid1),$(uuid2),$(uuid3),$(uuid4)]}]}}] run data remove entity @s data.collected_for_players[{uuid:[I;$(uuid1),$(uuid2),$(uuid3),$(uuid4)]}]

@@ -1,0 +1,1 @@
+$summon marker ~ ~ ~ {Tags:["jad.eco_projectile"],Rotation:$(Rotation)}

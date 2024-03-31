@@ -3,4 +3,5 @@ execute store result score Game.SelectedGame jad-value_compare run data get stor
 function jak_and_daxter:collectables/orb_tickall
 function jak_and_daxter:zoomer/tick
 function jak_and_daxter:eco_system/tick
+function jak_and_daxter:eco_system/yellow_eco/tick
 execute as @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:barrier"}}] at @s as @e[distance=0..0.4] run function jak_and_daxter:util/kill_all

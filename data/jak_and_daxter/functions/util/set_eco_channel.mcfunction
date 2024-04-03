@@ -1,0 +1,1 @@
+$data modify storage jad:game_data eco_channels[{channel:$(channel)}].enabled set value $(state)

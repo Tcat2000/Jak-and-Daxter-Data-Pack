@@ -1,1 +1,0 @@
-execute on passengers if entity @s[tag=jad_orb-data] run return run data get entity @s data.JAD.collectable.collected

@@ -1,4 +1,0 @@
-execute as @e[type=minecraft:armor_stand,tag=jad_orb] at @s unless function jak_and_daxter:orb/is_collected if entity @e[type=minecraft:player,dx=0] run function jak_and_daxter:orb/collect
-
-execute as @e[type=minecraft:armor_stand,tag=jad_orb] at @s if function jak_and_daxter:orb/is_collected on passengers if entity @e[tag=jad_orb-render] run data merge entity @s {Item:{id:"minecraft:barrier",tag:{CustomModelData:7465681}}}
-execute as @e[type=minecraft:armor_stand,tag=jad_orb] at @s unless function jak_and_daxter:orb/is_collected on passengers if entity @e[tag=jad_orb-render] run data merge entity @s {Item:{id:"minecraft:barrier",tag:{CustomModelData:7465680}}}

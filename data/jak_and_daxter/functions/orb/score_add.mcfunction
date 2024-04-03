@@ -1,1 +1,0 @@
-$scoreboard players add $(zone) jad.orbs_collected 1

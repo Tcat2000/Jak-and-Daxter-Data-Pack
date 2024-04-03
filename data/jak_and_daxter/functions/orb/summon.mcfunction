@@ -1,1 +1,0 @@
-summon armor_stand ~ ~0.8 ~ {Small:1b,Marker:1b,Invisible:1b,Tags:["jad_orb","jad_collectable"],Passengers:[{id:"minecraft:item",Age:-32768,PickupDelay:-1,Tags:["jad_orb-render"],Item:{id:"minecraft:egg",Count:1b}},{id:"minecraft:marker",Invulnerable:1b,Tags:["jad_orb-data"],data:{JAD:{collectable:{collected:false,zone:"default"}}}}]}

@@ -1,0 +1,1 @@
+$return run data get storage jad:game_data eco_channels[{channel:$(channel)}].enabled

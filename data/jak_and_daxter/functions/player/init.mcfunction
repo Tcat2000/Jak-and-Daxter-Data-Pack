@@ -1,4 +1,5 @@
-execute if entity @s[tag=jad.init] if entity @s[type=!player] run return fail
+execute if entity @s[type=!player] run return fail
+execute if entity @s[tag=jad.init] run return fail
 
 execute store result score @s uuid1 run data get entity @s UUID[0]
 execute store result score @s uuid2 run data get entity @s UUID[1]

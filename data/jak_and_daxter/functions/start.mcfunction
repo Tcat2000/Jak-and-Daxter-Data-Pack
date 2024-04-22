@@ -5,6 +5,7 @@ scoreboard objectives add jad-right_click minecraft.used:minecraft.carrot_on_a_s
 scoreboard objectives add jad-math_handling dummy
 scoreboard objectives add jad.eco_value dummy
 scoreboard objectives add jad.eco_color dummy
+scoreboard objectives add jad.player_state dummy
 scoreboard objectives add uuid1 dummy
 scoreboard objectives add uuid2 dummy
 scoreboard objectives add uuid3 dummy

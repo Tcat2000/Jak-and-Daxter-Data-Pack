@@ -1,1 +1,1 @@
-summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,Tags:["jad.eco_cluster.blue"],Passengers:[{id:"minecraft:marker",Tags:["jad.data"],data:{}}]}
+summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,Tags:["jad.eco_cluster.blue","jad.element"],Passengers:[{id:"minecraft:marker",Tags:["jad.data"],data:{}}]}

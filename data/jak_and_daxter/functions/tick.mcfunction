@@ -5,6 +5,6 @@ function jak_and_daxter:zoomer/tick
 function jak_and_daxter:eco_system/tick
 function jak_and_daxter:eco_system/yellow_eco/tick
 function jak_and_daxter:orb/tick
-function jak_and_daxter:animations/windmill
+function jak_and_daxter:animations/tick
 execute as @a run function jak_and_daxter:player/tick
 execute as @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:barrier"}}] at @s as @e[distance=0..0.4] run function jak_and_daxter:util/kill_all

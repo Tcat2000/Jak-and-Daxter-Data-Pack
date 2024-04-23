@@ -1,0 +1,2 @@
+function jak_and_daxter:animations/windmill1
+function jak_and_daxter:animations/windmill2

@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:item_display,sort=nearest,tag=jad.windometer] at @s run tp @s ~ ~ ~ ~-1 ~

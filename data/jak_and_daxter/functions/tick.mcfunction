@@ -8,3 +8,4 @@ function jak_and_daxter:orb/tick
 function jak_and_daxter:animations/tick
 execute as @a run function jak_and_daxter:player/tick
 execute as @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:barrier"}}] at @s as @e[distance=0..0.4] run function jak_and_daxter:util/kill_all
+scoreboard players add windmill_time jad.timing 1

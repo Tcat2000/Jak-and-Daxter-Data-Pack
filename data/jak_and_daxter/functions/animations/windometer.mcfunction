@@ -1,1 +1,2 @@
 execute as @e[type=minecraft:item_display,sort=nearest,tag=jad.windometer] at @s run tp @s ~ ~ ~ ~-1 ~
+data merge entity @e[type=minecraft:item_display,limit=1,sort=nearest,tag=jad.windometer] {teleport_duration:1,start_interpolation:0}

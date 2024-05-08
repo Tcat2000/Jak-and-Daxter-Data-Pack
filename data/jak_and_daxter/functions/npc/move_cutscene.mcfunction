@@ -1,0 +1,1 @@
+$tp @e[tag=jad.player_cam] $(pos)

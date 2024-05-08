@@ -1,0 +1,1 @@
+$particle minecraft:block_marker redstone_block $(pos0) 25 $(pos1) 0 0 0 0 1

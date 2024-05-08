@@ -1,0 +1,21 @@
+{
+    "jad:game_data":{
+        "games":[
+            {
+                "id":0,
+                "orbs":[
+                    {
+                        "uuid":[1,2,3,4],
+                        "collected":1
+                    }
+                ],
+                "power_cells":[
+                    {
+                        "uuid":[1,2,3,4],
+                        "collected":0
+                    }
+                ]
+            }
+        ]
+    }    
+}

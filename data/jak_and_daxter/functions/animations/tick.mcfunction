@@ -1,3 +1,7 @@
 function jak_and_daxter:animations/windmill1
 function jak_and_daxter:animations/windmill2
 function jak_and_daxter:animations/windometer
+function jak_and_daxter:animations/elevator
+function jak_and_daxter:animations/particles_test
+#function jak_and_daxter:animations/elevator_platform1
+#function jak_and_daxter:animations/elevator_platform2

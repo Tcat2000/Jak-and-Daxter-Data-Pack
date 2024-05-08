@@ -1,0 +1,1 @@
+function math:sin with storage jad:temp_data platform_rotation

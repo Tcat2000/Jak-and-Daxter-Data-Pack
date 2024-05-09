@@ -1,0 +1,1 @@
+$execute as @e[tag=jad.element,limit=1,sort=nearest] on passengers if entity @s[tag=jad.data] run data modify entity @s data.zone set value $(zone)

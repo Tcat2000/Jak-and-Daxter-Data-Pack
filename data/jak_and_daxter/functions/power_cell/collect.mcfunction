@@ -1,2 +1,0 @@
-execute on passengers if entity @s[tag=jad.data] run data modify entity @s data.collected set value 1
-execute on passengers if entity @s[tag=jad.data] run function jak_and_daxter:power_cell/count with entity @s data

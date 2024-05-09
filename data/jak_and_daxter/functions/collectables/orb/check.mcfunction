@@ -1,0 +1,1 @@
+execute on passengers if entity @s[tag=jad.data] run return run function jak_and_daxter:collectables/condition with entity @s data

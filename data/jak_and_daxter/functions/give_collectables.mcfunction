@@ -1,0 +1,2 @@
+give @p item_frame{display:{Name:'{"text":"Place Orb","italic":false}'},EntityTag:{Item:{id:"minecraft:egg",Count:1b}}} 1
+give @p item_frame{display:{Name:'{"text":"Place Power Cell","italic":false}'},EntityTag:{Item:{id:"minecraft:nether_star",Count:1b}}} 1

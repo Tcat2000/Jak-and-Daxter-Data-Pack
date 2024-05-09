@@ -1,0 +1,1 @@
+$return run execute as @e[nbt={UUID:[I;$(uuid1),$(uuid2),$(uuid3),$(uuid4)]}] on passengers if entity @s[tag=jad.data] run data get entity @s data.open

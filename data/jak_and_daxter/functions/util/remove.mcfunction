@@ -1,1 +1,1 @@
-execute as @e[tag=jad_collectable,limit=1,sort=nearest,distance=0..3] if entity @s[tag=jad_orb] run function jak_and_daxter:orb/remove
+execute as @e[tag=jad_collectable,limit=1,sort=nearest,distance=0..3] if entity @s[tag=jad_orb] run function jak_and_daxter:collectables/orb/remove

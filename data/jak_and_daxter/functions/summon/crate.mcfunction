@@ -1,0 +1,1 @@
+summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,Passengers:[{id:"minecraft:marker",Tags:["jad.data"],data:{}},{id:"minecraft:block_display",transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[-0.5f,0f,-0.5f],scale:[1f,1f,1f]},block_state:{Name:"minecraft:chest",Properties:{type:"single"}}}]}

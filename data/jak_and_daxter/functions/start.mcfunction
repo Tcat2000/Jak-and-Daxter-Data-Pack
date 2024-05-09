@@ -10,6 +10,7 @@ scoreboard objectives add jad.timing dummy
 scoreboard objectives add jad.value dummy
 scoreboard objectives add jad.orbs_collected dummy
 scoreboard objectives add jad.power_cells_collected dummy
+scoreboard objectives add jad.dialogue dummy
 scoreboard objectives add uuid1 dummy
 scoreboard objectives add uuid2 dummy
 scoreboard objectives add uuid3 dummy
@@ -20,3 +21,8 @@ execute unless entity @e[type=minecraft:marker,tag=math-sin] run summon minecraf
 # execute as @e[type=minecraft:armor_stand] run data modify entity @e[type=minecraft:marker,limit=1,sort=nearest] data.Passenger set from entity @s Passengers[{id:"minecraft:item"}]
 
 function jak_and_daxter:init_nums
+
+## npc stuff
+
+scoreboard players set uncle.first jad.dialogue 0
+scoreboard players set uncle.alternating jad.dialogue 0

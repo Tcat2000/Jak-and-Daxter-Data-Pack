@@ -1,0 +1,2 @@
+execute if score uncle.alternating jad.dialogue matches 0 run return run function jak_and_daxter:npc/uncle/dialogue/second/insufficent/insufficent0
+execute if score uncle.alternating jad.dialogue matches 1 run return run function jak_and_daxter:npc/uncle/dialogue/second/insufficent/insufficent1

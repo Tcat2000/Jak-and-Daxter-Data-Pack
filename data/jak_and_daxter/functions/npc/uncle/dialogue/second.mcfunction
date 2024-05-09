@@ -1,0 +1,2 @@
+execute if score collected jad.orbs_collected matches ..89 run return run function jak_and_daxter:npc/uncle/dialogue/second/insufficent
+execute if score collected jad.orbs_collected matches 90.. run return run function jak_and_daxter:npc/uncle/dialogue/second/trade/trade
